@@ -12,7 +12,10 @@ Initial Security()
 {
  //Sample Code
 }
-
+Modified Security()
+{
+ //New security Code
+}
 
 
 }
