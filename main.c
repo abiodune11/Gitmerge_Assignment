@@ -4,6 +4,7 @@ Initial Function()
 {
   //Sample Code
 }
+Feature1()
 {
  //Feature1 Input
 }
